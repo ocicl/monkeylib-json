@@ -1,0 +1,10 @@
+* monkeylib-json
+
+Json input and output code.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-json.git   |
+| commit  | 88a52b5  |
+| systems | monkeylib-json |
+|---------+-------------------------------------------|
+
