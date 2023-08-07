@@ -2,9 +2,8 @@
 
 Json input and output code.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-json.git   |
-| commit  | 88a52b5  |
-| systems | monkeylib-json |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-json.git |
+| commit  | 88a52b5                                              |
+| systems | com.gigamonkeys.json                                 |
+|---------+------------------------------------------------------|
